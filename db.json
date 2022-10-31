@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "first": "sobia",
+      "last": "sobia",
+      "email": "sobia@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      
+      "first": "Abc",
+      "last": "xyz",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      
+      "first": "test",
+      "last": "xyz",
+      "email": "test@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "first": "",
+      "last": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    }
+  ]
+}
