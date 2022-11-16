@@ -8,7 +8,6 @@
       "id": 1
     },
     {
-      
       "first": "Abc",
       "last": "xyz",
       "email": "abc@gmail.com",
@@ -16,7 +15,6 @@
       "id": 1
     },
     {
-      
       "first": "test",
       "last": "xyz",
       "email": "test@gmail.com",
@@ -29,6 +27,24 @@
       "email": "123@gmail.com",
       "password": "123",
       "id": 4
+    },
+    {
+      "first": "mehreen",
+      "last": "mehreen",
+      "email": "123@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "sobia@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    
+    {
+      "email": "123",
+      "password": "123",
+      "id": 7
     }
   ]
 }
